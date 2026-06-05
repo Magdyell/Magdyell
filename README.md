@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Magdyel Oliveira 👋
 
-<!--
-**Magdyell/Magdyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Focado em:
+- Desenvolvimento Web
+- Automação
+- Inteligência Artificial
+- Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- Python
+- JavaScript
+- SQL
+
+- ## Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+</p>
+
+📫 Contato:
+LinkedIn: https://www.linkedin.com/in/magdyel-oliveira-956b00364
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
