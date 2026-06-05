@@ -62,7 +62,7 @@
   </a>
 </p>
 
-📧 Email: your.email@example.com
+📧 Email: MAGDYELALMEIDA@GMAIL.COM
 
 ---
 
