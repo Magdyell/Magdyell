@@ -1,31 +1,70 @@
-# Olá, eu sou Magdyel Oliveira 👋
+<h1 align="center">Hi, I'm Magdyel Oliveira 👋</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+<p align="center">
+  Technology Analysis and Development Student
+</p>
 
-💻 Focado em:
-- Desenvolvimento Web
-- Automação
-- Inteligência Artificial
-- Banco de Dados
+---
 
-🚀 Atualmente estudando:
+## 👨‍💻 About Me
+
+🎓 Technology Analysis and Development Student
+
+💡 Interested in:
+
+- Web Development
+- Automation
+- Artificial Intelligence
+- Databases
+
+🚀 Currently Learning:
+
 - Python
 - JavaScript
 - SQL
 
-- ## Tecnologias
+📚 Constantly improving my skills through academic and personal projects.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode" />
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,mysql" />
 </p>
 
-📫 Contato:
-LinkedIn: https://www.linkedin.com/in/magdyel-oliveira-956b00364
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magdyell&show_icons=true&theme=tokyonight"/>
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magdyell&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magdyell&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magdyell&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=Magdyell&color=blue)
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Magdyell&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Featured Projects
+
+🔹 Financial Manager — Personal finance management application
+
+🔹 Web Development Projects — Front-end and back-end learning projects
+
+🔹 Academic Projects — Projects developed during my ADS degree
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/magdyel-oliveira-956b00364">
+    LinkedIn
+  </a>
+</p>
+
+📧 Email: your.email@example.com
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
+
